@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/gezilecekler"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Gezilecekler"/>
+    <item
+        android:id="@+id/home"
+        android:title=""/>
+    <item
+        android:id="@+id/gezdiklerim"
+        android:icon="@drawable/ic_baseline_person_outline_24"
+        android:title="Gezdiklerim"/>
+
+</menu>

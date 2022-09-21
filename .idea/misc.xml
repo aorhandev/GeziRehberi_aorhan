@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ao_projects/KotlinProje/GeziRehberi_aorhan/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.283" />
+        <entry key="..\:/ao_projects/KotlinProje/GeziRehberi_aorhan/app/src/main/res/drawable/image_background_curved.xml" value="0.283" />
+        <entry key="..\:/ao_projects/KotlinProje/GeziRehberi_aorhan/app/src/main/res/drawable/item_background_curved.xml" value="0.283" />
+        <entry key="..\:/ao_projects/KotlinProje/GeziRehberi_aorhan/app/src/main/res/drawable/nav_background_curved.xml" value="0.2635" />
+        <entry key="..\:/ao_projects/KotlinProje/GeziRehberi_aorhan/app/src/main/res/drawable/rv_item.xml" value="0.283" />
+        <entry key="..\:/ao_projects/KotlinProje/GeziRehberi_aorhan/app/src/main/res/drawable/rv_item_onemdurumu.xml" value="0.283" />
+        <entry key="..\:/ao_projects/KotlinProje/GeziRehberi_aorhan/app/src/main/res/drawable/rv_onemdurumu_gri.xml" value="0.283" />
+        <entry key="..\:/ao_projects/KotlinProje/GeziRehberi_aorhan/app/src/main/res/drawable/rv_onemdurumu_mavi.xml" value="0.283" />
+        <entry key="..\:/ao_projects/KotlinProje/GeziRehberi_aorhan/app/src/main/res/drawable/transparent_background.xml" value="0.283" />
+        <entry key="..\:/ao_projects/KotlinProje/GeziRehberi_aorhan/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/ao_projects/KotlinProje/GeziRehberi_aorhan/app/src/main/res/layout/fragment_gezdiklerim.xml" value="0.36666666666666664" />
+        <entry key="..\:/ao_projects/KotlinProje/GeziRehberi_aorhan/app/src/main/res/layout/fragment_gezilecekler.xml" value="0.36666666666666664" />
+        <entry key="..\:/ao_projects/KotlinProje/GeziRehberi_aorhan/app/src/main/res/layout/fragment_yer_bilgisi.xml" value="0.6680707666385847" />
+        <entry key="..\:/ao_projects/KotlinProje/GeziRehberi_aorhan/app/src/main/res/layout/rv_item.xml" value="0.75" />
+        <entry key="..\:/ao_projects/KotlinProje/GeziRehberi_aorhan/app/src/main/res/layout/rv_ziyaret_gecmisi_item.xml" value="0.67" />
+        <entry key="..\:/ao_projects/KotlinProje/GeziRehberi_aorhan/app/src/main/res/menu/bottom_navbar_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
